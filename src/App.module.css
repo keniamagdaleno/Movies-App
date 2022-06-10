@@ -1,0 +1,16 @@
+.title{
+    text-align: center;
+    font-size: 4rem;
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e65214, 0 0 40px #e65214, 0 0 50px #e65214, 0 0 60px #e65214, 0 0 70px #e65214;
+}
+
+.author{
+    display: flex;
+    justify-content:end;
+    margin-right: 50px;
+    text-decoration:underline;
+    color: rgb(250, 224, 224)
+
+    
+    
+}
